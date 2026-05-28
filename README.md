@@ -29,4 +29,4 @@
 ## 📬 Как со мной связаться
 * 📍 Местоположение: Санкт-Петербург | Москва | 🌏
 * 💼 LinkedIn: [https://www.linkedin.com/in/an-andrv/]
-* ✈️ Telegram: [@frontaana]
+* ✈️ Telegram: [[@frontaana](https://t.me/frontaana)]
