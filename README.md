@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет! Я Анастасия 👋 (frontaana)
 
-<!--
-**frontaana/frontaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Angular Developer 🅰️ 
+Я специализируюсь на создании масштабируемых веб-приложений с использованием экосистемы **Angular** и архитектуры **Nx Monorepo**. Проектирую интерфейсы по принципам чистой архитектуры, внедряю реактивное управление состоянием и интерактивную визуализацию данных.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мой главный проект сейчас
+
+### [🛡️ Hire-Up | Карьерный ИТ-Ассистент](https://github.io)
+**Инструмент два-в-одному для разработчиков:**
+* **Скринер резюме:** посекционный аудит качества резюме с анализом покрытия ключевых слов рынка (на базе Angular Signals).
+* **Проверка договора:** автоматический юридический скрининг офферов и контрактов на наличие скрытых ловушек с интерактивными графиками **Highcharts**.
+* *Стек: Angular 18+, Nx, NgRx Signals, NGXS, Highcharts, Firebase REST API.*
+
+---
+
+## 🛠️ Технологический стек
+
+* **Frameworks & Tools:** Angular 18+ (Standalone, Signals), Nx Monorepo, RxJS
+* **State Management:** NgRx Signal Store, NGXS (Redux)
+* **Languages:** TypeScript, JavaScript (ES6+)
+* **UI & Style:** Angular Material, SCSS, Tailwind CSS, BEM
+* **Data Viz & Testing:** Highcharts, Jest (Unit), Cypress (E2E)
+* **CI/CD & DevOps:** GitHub Actions, Firebase, Docker
+
+---
+
+## 📈 Моя статистика на GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="frontaana GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 📬 Как со мной связаться
+* 📍 Местоположение: Санкт-Петербург | Москва | 🌏
+* 💼 LinkedIn: [https://www.linkedin.com/in/an-andrv/]
+* ✈️ Telegram: [@frontaana]
