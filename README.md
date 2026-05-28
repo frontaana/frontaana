@@ -7,7 +7,7 @@
 
 ## 🚀 Мой главный проект сейчас
 
-### [🛡️ Hire-Up | Карьерный ИТ-Ассистент](https://github.io)
+### [🛡️ Hire-Up | Карьерный ИТ-Ассистент](https://frontaana.github.io/ng-hire-up/)
 **Инструмент два-в-одному для разработчиков:**
 * **Скринер резюме:** посекционный аудит качества резюме с анализом покрытия ключевых слов рынка (на базе Angular Signals).
 * **Проверка договора:** автоматический юридический скрининг офферов и контрактов на наличие скрытых ловушек с интерактивными графиками **Highcharts**.
@@ -23,15 +23,6 @@
 * **UI & Style:** Angular Material, SCSS, Tailwind CSS, BEM
 * **Data Viz & Testing:** Highcharts, Jest (Unit), Cypress (E2E)
 * **CI/CD & DevOps:** GitHub Actions, Firebase, Docker
-
----
-
-## 📈 Моя статистика на GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="frontaana GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
 
 ---
 
