@@ -12,7 +12,7 @@
 * **Скринер резюме:** посекционный аудит качества резюме с анализом покрытия ключевых слов рынка (на базе Angular Signals).
 * **База знаний:** база теории для Senior Frontend Developer'a, включая вопросы по фреймворку Angular.
 * **Проверка договора:** автоматический юридический скрининг офферов и контрактов на наличие скрытых ловушек с интерактивными графиками **Highcharts**.
-* *Стек: Angular 20+, Nx, NgRx Signals, NGXS, Highcharts, Firebase REST API.*
+* *Стек: Angular 18+, Nx, NgRx Signals, NGXS, Highcharts, Firebase REST API.*
 
 ---
 
@@ -29,5 +29,5 @@
 
 ## 📬 Как со мной связаться
 * 📍 Местоположение: Санкт-Петербург | Москва | 🌏
-* 💼 LinkedIn: [https://www.linkedin.com/in/an-andrv/]
-* ✈️ Telegram: [[@frontaana](https://t.me/frontaana)]
+* 💼 LinkedIn: [https://www.linkedin.com/in/ng-anastasion/]
+* ✈️ Telegram: [[@frontaana](https://t.me/ng-anastasion)]
