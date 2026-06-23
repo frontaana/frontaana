@@ -5,20 +5,9 @@
 
 ---
 
-## 🚀 Пет-проект
-
-### [🛡️ Hire-Up | Карьерный ИТ-Ассистент](https://frontaana.github.io/ng-hire-up/)
-**Инструмент два-в-одному для разработчиков:**
-* **Скринер резюме:** посекционный аудит качества резюме с анализом покрытия ключевых слов рынка (на базе Angular Signals).
-* **База знаний:** база теории для Senior Frontend Developer'a, включая вопросы по фреймворку Angular.
-* **Проверка договора:** автоматический юридический скрининг офферов и контрактов на наличие скрытых ловушек с интерактивными графиками **Highcharts**.
-* *Стек: Angular 18+, Nx, NgRx Signals, NGXS, Highcharts, Firebase REST API.*
-
----
-
 ## 🛠️ Технологический стек
 
-* **Frameworks & Tools:** Angular 18+ (Standalone, Signals), Nx Monorepo, RxJS
+* **Frameworks & Tools:** Angular 17-20+ (Standalone, Signals), Nx Monorepo, RxJS, AngularJS
 * **State Management:** NgRx Signal Store, NGXS (Redux)
 * **Languages:** TypeScript, JavaScript (ES6+)
 * **UI & Style:** Angular Material, SCSS, Tailwind CSS, BEM
