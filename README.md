@@ -19,4 +19,4 @@
 ## 📬 Как со мной связаться
 * 📍 Местоположение: Санкт-Петербург | Москва | 🌏
 * 💼 LinkedIn: [https://www.linkedin.com/in/ng-anastasion/]
-* ✈️ Telegram: [[@ng-anastasion](https://t.me/ng-anastasion)]
+* ✈️ Telegram: [[@ng_ana](https://t.me/ng_ana)]
